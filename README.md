@@ -176,16 +176,7 @@ Total Arrecadado: R$ 580,00
 - **Interface Amigável**: Navegação intuitiva
 - **Tratamento de Erros**: Operações seguras
 
-## 📈 Possíveis Melhorias
 
-- [ ] Sistema de horários múltiplos
-- [ ] Diferentes tipos de ingresso (estudante, idoso)
-- [ ] Integração com banco de dados
-- [ ] Interface gráfica (GTK/SDL)
-- [ ] Sistema de reserva online
-- [ ] Histórico de sessões
-- [ ] Relatórios em PDF
-- [ ] Sistema de fidelidade
 
 ## 🎓 Conceitos Aprendidos
 
